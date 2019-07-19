@@ -12,3 +12,6 @@ Updated locally
 
 This is gonna conflict, 
 There is no denying that
+
+
+This is an example line
