@@ -7,8 +7,8 @@ editing readme on branch
 
 Updated locally
 
+##pull CONFLICT
 
-### Local repo
 
 This is gonna conflict, 
 There is no denying that
