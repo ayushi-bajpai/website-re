@@ -15,3 +15,7 @@ There is no denying that
 
 
 This is an example line
+
+Adding updates:
+    Updates favicon file on 31-10-2019
+    Happy halloween!!
